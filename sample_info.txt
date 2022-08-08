@@ -1,5 +1,0 @@
-Sample,Designation
-PGVG 1,Control
-PGVG 2,Control
-JUUL 1,Treatment
-JUUL 2,Treatment

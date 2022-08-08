@@ -5,8 +5,8 @@ library(readxl)
 # Read in and organize metadata 
 # setup_info <- read.delim("setup_info.txt", header = TRUE, sep = ",")
 # sample_info <- read.delim("sample_info.txt", header = TRUE, sep = ",")
-setup_info <- read.delim("setup_info.txt", header = TRUE, sep = ",")
-sample_info <- read.delim("sample_info.txt", header = TRUE, sep = ",")
+setup_info <- read.delim("setup_info.csv", header = TRUE, sep = ",")
+sample_info <- read.delim("sample_info.csv", header = TRUE, sep = ",")
 rownames(sample_info) <- sample_info$Sample
 
 housekeeping <- setup_info[3,2]
