@@ -1,0 +1,7 @@
+Field,Entry
+Filename,080822_GAPDH+IL6_qPCR
+Filetype,xls
+Housekeeping_Gene,GAPDH
+NTC_Designation,NTC
+Treatment_Control_Designation,Control
+Sample_info,N
